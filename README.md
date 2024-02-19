@@ -12,7 +12,7 @@ This addon transforms your Instagram into a Shoppable Instagram. This allows you
 * Price= $149
   
 # Compatibility with Magento Versions
-Magento 2.4.X (CE, EE, ECE)
+Magento 2.2.6 to 2.4.6 (CE, EE, ECE)
 
 # Installing Via Composer
 
@@ -54,6 +54,25 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 14. The Hyvä addon is now available.
 
 15. Includes Magento 2 Instagram Feed PRO.
+
+# Configuration
+1. Enable or Disable the extension from here.
+
+ ![in 1](https://github.com/patelanny/magento-2-shoppable-instagram/assets/121279820/392889ad-53ba-494c-80d6-4e0af342ebc8)
+
+2. Generate TSV file to upload products on Facebook catalog.
+
+![in 2](https://github.com/patelanny/magento-2-shoppable-instagram/assets/121279820/71c041b5-285d-4a46-8b9e-8f92b2b258ec)
+
+A TSV file will be generated with all the product details that you can use to quickly upload all your products on Facebook.
+
+3. Select Yes to show Instagram Images on your Magento store home page.
+
+![in 3](https://github.com/patelanny/magento-2-shoppable-instagram/assets/121279820/df591ffa-1980-4c44-88f1-2f68367f0055)
+
+4. Selecting Hashtags option in the previous field, will provide this option to add hashtags here.
+
+![in 5](https://github.com/patelanny/magento-2-shoppable-instagram/assets/121279820/56f4f226-a551-4eb5-895b-751e50282e26)
 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
